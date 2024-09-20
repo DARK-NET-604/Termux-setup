@@ -1,7 +1,10 @@
 
 ## Assalamaualaikum
 ## Termux-setup
-
+## Tool Password 
+````
+DARK-NET
+````
 ## Commands & Usage:⬇️
 ````
 termux-setup-storage
