@@ -1,6 +1,6 @@
 
 ## Assalamaualaikum
-## Termux-setup
+Termux full setup tool
 ## Tool Password 
 ````
 DARK-NET
